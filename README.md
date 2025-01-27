@@ -1,5 +1,5 @@
-# 🚀 About Me:
-  - 🌟 Experienced No-Code Developer proficient in a variety of tools, including WordPress, Shopify, Framer, and more.  <br>- 🌱 Currently learning Full-Stack Development to expand my capabilities.  <br>- 💡 Passionate about creating efficient and scalable web solutions using both no-code platforms and custom development.<br><br>🛠️ My Skill Set<br>             No-Code Tools<br>- WordPress <br>- Shopify <br>- Framer <br>- Figma and other tools for automation, web design, and workflows <br><br>🗺️ My Journey<br>- 🌟 Transitioning from no-code tools to mastering full-stack development.<br>- 🚀 Aiming to combine no-code agility with coding flexibility.<br><br>
+# 💫 About Me:
+ 🚀 About Me<br>- 🌟 Experienced No-Code Developer proficient in a variety of tools, including WordPress, Shopify, Framer, and more.  <br>- 🌱 Currently learning Full-Stack Development to expand my capabilities.  <br>- 💡 Passionate about creating efficient and scalable web solutions using both no-code platforms and custom development.<br><br>🛠️ My Skill Set<br>             No-Code Tools<br>- WordPress <br>- Shopify <br>- Framer <br>- Figma and other tools for automation, web design, and workflows <br><br>🗺️ My Journey<br>- 🌟 Transitioning from no-code tools to mastering full-stack development.<br>- 🚀 Aiming to combine no-code agility with coding flexibility.<br><br>
 
 
 ## 🌐 Socials:
